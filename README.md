@@ -1,5 +1,5 @@
 ### Real-time Hand Gesture Recognition System:
 
-Developed a real-time hand gesture recognition system utilizing a custom CNN combined with YOLO (You Only Look Once) for real-time object detection. The system interprets dynamic hand movements into text, providing intuitive interaction with digital interfaces. Designed for diverse applications such as virtual reality environments and assistive technology for the hearing impaired.
+Engineered an AI-powered Android app utilizing pre-trained Convolutional Neural Network (CNN) architectures, including EfficientNet and YOLO, for real-time detection and interpretation of sign language gestures. Integrated a VGG16 model to translate gestures into text, enhancing communication for users with hearing impairments.
 
 *Tech Stack: Python, TensorFlow, OpenCV, YOLO, Mediapipe, Pandas.*
